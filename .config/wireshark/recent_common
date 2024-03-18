@@ -1,0 +1,137 @@
+# Common recent settings file for Wireshark 3.2.3.
+#
+# This file is regenerated each time Wireshark is quit
+# and when changing configuration profile.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /home/nnrg/5f9cn/packet.pcapng
+recent.capture_file: /home/New Folder1/wireshark.pcapng
+recent.capture_file: /home/nnrg/511/511.pcapng
+recent.capture_file: /home/nnrg/511/512.pcapng
+recent.capture_file: /home/nnrg/5f1/wireshark.pcapng
+recent.capture_file: /home/nnrg/5j0/wireshark.pcapng
+recent.capture_file: /home/nnrg/5j0/surya.pcapng
+recent.capture_file: /home/nnrg/5j0/Surya.pcapng
+recent.capture_file: /home/nnrg/5j0/ssss.pcapng
+recent.capture_file: /home/nnrg/5j0/kiran549.pcapng
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: arp
+recent.display_filter: tcp
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 72
+gui.geometry_main_y: 27
+gui.geometry_main_width: 1528
+gui.geometry_main_height: 836
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: TRUE
+
+# Leftalign Action Buttons.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_leftalign_actions: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Find packet search in.
+# One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES
+gui.search_in: PACKET_LIST
+
+# Find packet character set.
+# One of: NARROW_AND_WIDE, NARROW, WIDE
+gui.search_char_set: NARROW_AND_WIDE
+
+# Find packet case sensitive search.
+# TRUE or FALSE (case-insensitive).
+gui.search_case_sensitive: FALSE
+
+# Find packet search type.
+# One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
+gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of BluetoothAttServerAttributesDialog window.
+# Decimal integers.
+gui.geom.BluetoothAttServerAttributesDialog.x: 402
+gui.geom.BluetoothAttServerAttributesDialog.y: 130
+gui.geom.BluetoothAttServerAttributesDialog.width: 849
+gui.geom.BluetoothAttServerAttributesDialog.height: 512
+# TRUE or FALSE (case-insensitive).
+gui.geom.BluetoothAttServerAttributesDialog.maximized: FALSE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 442
+gui.geom.PacketDialog.y: 79
+gui.geom.PacketDialog.width: 768
+gui.geom.PacketDialog.height: 614
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Geometry and maximized state of BluetoothHciSummaryDialog window.
+# Decimal integers.
+gui.geom.BluetoothHciSummaryDialog.x: 419
+gui.geom.BluetoothHciSummaryDialog.y: 130
+gui.geom.BluetoothHciSummaryDialog.width: 818
+gui.geom.BluetoothHciSummaryDialog.height: 512
+# TRUE or FALSE (case-insensitive).
+gui.geom.BluetoothHciSummaryDialog.maximized: FALSE
+
+# Geometry and maximized state of BluetoothDevicesDialog window.
+# Decimal integers.
+gui.geom.BluetoothDevicesDialog.x: 442
+gui.geom.BluetoothDevicesDialog.y: 130
+gui.geom.BluetoothDevicesDialog.width: 768
+gui.geom.BluetoothDevicesDialog.height: 512
+# TRUE or FALSE (case-insensitive).
+gui.geom.BluetoothDevicesDialog.maximized: FALSE
+
+# Geometry and maximized state of Funnel Evaluate Lua window.
+# Decimal integers.
+gui.geom.Funnel Evaluate Lua.x: 516
+gui.geom.Funnel Evaluate Lua.y: 161
+gui.geom.Funnel Evaluate Lua.width: 620
+gui.geom.Funnel Evaluate Lua.height: 450
+# TRUE or FALSE (case-insensitive).
+gui.geom.Funnel Evaluate Lua.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"
